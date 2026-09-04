@@ -1,0 +1,1 @@
+Multiple users cannot login to the internal developer portal after the morning access-policy update. MFA completes but the portal returns HTTP 403. One affected account is engineer@example.com and the source test IP was 10.20.30.40. There is customer impact but no confirmed security incident.

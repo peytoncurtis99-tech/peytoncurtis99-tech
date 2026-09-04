@@ -1,0 +1,11 @@
+timestamp,user,ip,event,status,reason
+2026-09-04T08:00:00,alice,10.10.1.10,login,failure,bad_password
+2026-09-04T08:00:15,alice,10.10.1.10,login,failure,bad_password
+2026-09-04T08:00:30,alice,10.10.1.10,login,failure,bad_password
+2026-09-04T08:01:02,alice,10.10.1.10,login,success,ok
+2026-09-04T08:03:00,bob,172.16.4.22,login,failure,mfa_denied
+2026-09-04T08:04:00,bob,172.16.4.22,login,failure,mfa_denied
+2026-09-04T08:05:00,carol,192.168.2.55,login,success,ok
+2026-09-04T08:06:00,dave,203.0.113.25,login,failure,device_posture
+2026-09-04T08:06:30,dave,203.0.113.25,login,failure,device_posture
+2026-09-04T08:07:00,dave,203.0.113.25,login,failure,device_posture
