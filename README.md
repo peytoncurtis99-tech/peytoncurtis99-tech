@@ -1,24 +1,47 @@
-## Hi there 👋# Upload Order
+# Peyton Curtis
 
-1. Create a GitHub account with a professional username, ideally `peytoncurtis`, `peyton-curtis`, or a clean variation.
-2. Create a public repository with the exact same name as your GitHub username. Copy the contents of `peytoncurtis/README.md` into that repository's `README.md`. GitHub will display it on your profile.
-3. Create these three public repositories:
-   - `support-log-analyzer`
-   - `incident-triage-assistant`
-   - `identity-access-lab`
-4. Upload each matching folder's files.
-5. Pin all three repositories to your GitHub profile.
-6. Run the Python tools locally before publishing and commit the generated example reports if you want visible sample output.
-7. Add the final GitHub profile URL to the top of your resume and the Netflix application.
+Security and engineering support focused professional building practical skills in infrastructure troubleshooting, identity and access, automation, log analysis, and AI-assisted support workflows.
 
-Do not claim these projects were deployed in an enterprise environment. Present them as portfolio projects and hands-on labs.
+I’m currently studying Computer Engineering and building hands-on projects around the same problems support and security engineering teams deal with every day: noisy logs, ambiguous incidents, authentication failures, repeatable troubleshooting, and clear documentation.
 
+## Featured Projects
 
-<!--
-**peytoncurtis99-tech/peytoncurtis99-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Support Log Analyzer](../support-log-analyzer)
+A Python CLI that parses authentication and application logs, summarizes failure patterns, highlights suspicious activity, and exports a clean incident report.
 
-Here are some ideas to get you started:
+**Focus:** Python, log analysis, authentication troubleshooting, incident triage, support automation
 
+### [Incident Triage Assistant](../incident-triage-assistant)
+A local Python tool that turns raw support tickets into a structured triage summary, severity recommendation, investigation checklist, and draft runbook entry.
+
+**Focus:** support engineering, automation, structured outputs, GenAI-ready workflows, documentation
+
+### [Identity & Access Lab](../identity-access-lab)
+A documented lab for learning authentication, authorization, SSO concepts, MFA, OAuth/OIDC, SAML, access reviews, and investigation of sign-in failures.
+
+**Focus:** IAM, authentication, access management, security monitoring, runbooks
+
+## Current Focus
+
+- Python for support and security automation
+- Identity and access management fundamentals
+- Authentication log investigation
+- Active Directory and Windows administration labs
+- Wireshark and network troubleshooting
+- Security+ preparation
+- AI-assisted troubleshooting and documentation
+
+## Background
+
+- U.S. Army veteran
+- Founder of Blackmere Holdings LLC
+- Defense contracting and customer-facing technical work
+- Firefighter with experience operating in high-pressure, time-sensitive environments
+- B.S. Computer Engineering, Southern New Hampshire University, in progress
+
+## How I Work
+
+I like problems where the answer isn’t obvious at first. My approach is simple: gather evidence, reduce the problem, verify assumptions, document what worked, and make the next incident easier to solve.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
